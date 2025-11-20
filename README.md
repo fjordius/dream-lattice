@@ -24,7 +24,7 @@ Dream Lattice assembles a living hypergraph of vignettes—each node carries moo
 ### Run
 
 ```bash
-love dream_lattice
+love dream-lattice
 ```
 
 The project directory contains:
